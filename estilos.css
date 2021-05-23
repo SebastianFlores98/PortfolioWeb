@@ -6,8 +6,9 @@ body{
     background-color: rgb(53, 50, 50);
     background-image: url(img/fondo.jpg);
     background-repeat: no-repeat;
-    background-size: 200% 100%;
-    background-position: 0px 60px;
+    background-size: cover;
+    background-position:  center center  ;
+    
    
 }
 
